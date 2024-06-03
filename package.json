@@ -1,7 +1,7 @@
 {
   "name": "melodymiao.github.io",
-  "homepage": "https://melodymiao.github.io/portfolio",
-  "private": true,
+  "homepage": ".",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
